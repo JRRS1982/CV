@@ -1,11 +1,14 @@
-# CV
+# Jeremy Smith
 
-Please find my CV attached to this repository, linked here: https://github.com/JRRS1982/CV/blob/master/JeremySmithResume.pdf
+Hi, I am Jeremy, a Makers Software bootcamp gradate and developer, currently looking for a junior software engineer role.
 
-This page and its nested sub pages within notion have been created to support my learning as a developer, and to evidence what 
-I have learnt so far when I apply for work. I have created these pages to demonstrate those skills and abilities that 
-are commonly required to be a successful in a long term software career while staying happy and healthy. Please find links 
-with sub pages here:
+Please find my CV attached to this repository; [pdf linked here.]( https://github.com/JRRS1982/CV/blob/master/JeremySmithResume.pdf)
+
+This page and its nested sub pages within notion have been created to support my future development and evidence what I have 
+learnt so far (for an employer / interested person) when I apply for work by demonstrating those skills and abilities that are 
+commonly required.
+
+Please find links with sub pages here:
 
 * [I can TDD anything](https://www.notion.so/I-can-TDD-anything-7ae45cf1346942e39fcb23c380ef65ef)
 * [I can programme fluently](https://www.notion.so/I-can-programme-fluently-823ad4e81cbb40c08ce64af61133f77a)
@@ -23,3 +26,10 @@ In addition to this, I am keen to learn / share industry best practice and learn
 have made public some of my notes on best practice and languages which I am going to continue to add to as I get more experience.
 
 https://www.notion.so/Best-Practice-Language-notes-3a8dfb1bec6c49f0987d5dd5a544c18b
+
+
+ Project Link | Description | Technologies Used
+--- | --- | --- | --- 
+[Acebook](https://github.com/JRRS1982/acebook-business-logic)| Description  | Tech used
+[Boris Bikes](https://github.com/JRRS1982/Boris-Bike/tree/master/Boris_Bikes)| Description | Tech
+[Bank Tech Test](https://github.com/JRRS1982/Bank_Tech_Test)|Description| Tech Used
