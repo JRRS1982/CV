@@ -1,9 +1,11 @@
 # CV
 
-Please find my CV attached on this repository, here: https://github.com/JRRS1982/CV/blob/master/JeremySmithResume.pdf
+Please find my CV attached to this repository, linked here: https://github.com/JRRS1982/CV/blob/master/JeremySmithResume.pdf
 
-To evidence what I have learnt so far I have created nested pages in notion, which shows some of my commit 
-messages and justifying that:
+This page and its nested sub pages within notion have been created to support my learning as a developer, and to evidence what 
+I have learnt so far when I apply for work. I have created these pages to demonstrate those skills and abilities that 
+are commonly required to be a successful in a long term software career while staying happy and healthy. Please find links 
+with sub pages here:
 
 * [I can TDD anything](https://www.notion.so/I-can-TDD-anything-7ae45cf1346942e39fcb23c380ef65ef)
 * [I can programme fluently](https://www.notion.so/I-can-programme-fluently-823ad4e81cbb40c08ce64af61133f77a)
@@ -17,7 +19,7 @@ messages and justifying that:
 * [I manage my own well-being](https://www.notion.so/I-manage-my-own-well-being-5452d72c0db844e8984c76c9fbd0b6e1)
 * [I can learn anything by myself](https://www.notion.so/I-can-learn-anything-by-myself-ce6d5551ac8347c4b6c48e2583ceef97)
 
-I am keen to learn / share best practice and write good quality code, therefore below I have made public some of my notes on 
-best practice and languages which I am going to continue to add to as I get more experience.
+In addition to this, I am keen to learn / share industry best practice and learn / write good quality code, therefore below I
+have made public some of my notes on best practice and languages which I am going to continue to add to as I get more experience.
 
 https://www.notion.so/Best-Practice-Language-notes-3a8dfb1bec6c49f0987d5dd5a544c18b
