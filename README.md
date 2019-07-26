@@ -39,11 +39,8 @@ Here I highlight some of the projectst that i have been a part of
  Project Link | Description | Technologies Used
 --- | --- | --- 
 [Acebook](https://github.com/JRRS1982/acebook-business-logic)| A group project with pair programming to clone facebook  | Ruby, Rails, HTML, CSS, Postgres SQL. 
-
-[Cleo Tech Test](https://github.com/JRRS1982/cleo_test)| A TDD'd, OOP tech test| Ruby, Rspec
-
-[Bowling Scorecard](https://github.com/JRRS1982/bowling_scorecard)| A TDD'd OOP tech test | Ruby, RSpec
-
+[Vending Machine](https://github.com/JRRS1982/TrainingExercises/tree/master/cleo-tech-test-vending-machine)| A TDD'd, OOP vending machine test| Ruby, Rspec
+[Bowling Scorecard](https://github.com/JRRS1982/bowling_scorecard)| A TDD'd OOP tech test with some complex logic calculating scores | Ruby, RSpec
 [Bank Tech Test](https://github.com/JRRS1982/Bank_Tech_Test)| A TDD'd OOP tech test | Ruby, RSpec
 
 
