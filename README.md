@@ -1,6 +1,6 @@
 # Jeremy Smith
 
-## [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) |[Interests](#interests) | [Contact](#contact)
+## [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
 I am a London based self-taught and motivated software engineer, currently developing my technical knowledge and skill
 after graduating from the Makers Academy software engineering bootcamp.
@@ -11,8 +11,10 @@ therefore [here](https://www.notion.so/Best-Practice-Language-notes-3a8dfb1bec6c
 
 My interest in IT has always been present, I played with circuit boards at sixth form, and went to Farnborough College
 in 2001 to learn to code, but my career took another path and I spent 10 years in property followed by five in finance.
-While I picked up a lot of transferable skills during this time I did not believe in what I was doing, I enjoyed problem
-solving in these roles and have come full circle to software development to build a career that I really enjoy.
+While I picked up many transferable skills during this time I did not believe in what I was doing, I was always drawn to
+problem solving at work and making processes more efficient, which has always been with software. I love software
+development because when you are working on a project you are challenged and tested and are forced to always be learning
+new technology and languages, I enjoy this challenge and the variety of problems that it brings.
 
 Please find a hard copy pdf version of my CV [linked here.](https://github.com/JRRS1982/CV/blob/master/JeremySmithResume.pdf)
 
@@ -88,27 +90,52 @@ I attended a 16 week intensive Software Engineering Bootcamp, which focused on;
 
 #### *Wealth Management Assistant*
 
-* Promoted onto the business improvement forum.
+* Promoted onto the business improvement forum due to my contribution to the team with new ideas.
 * Personally selected into the team of the number one billing advisor in the company to support well known
-celebrity clients.
+'A' list celebrity clients and politicians.
 
 ### AMPP Group (Apr 2017 - Jul 2019)
 
 #### *Sales Consultant*
 
-* I exceeded all call targets to establish sales calls between my Sales Director and CEO's (customers).
+* I exceeded all call targets to establish sales calls between my Sales Director and CEO level customers.
 
 ### Thomas Miller (Mar 2016 - Apr 2017)
 
 #### *Wealth Management Assistant*
 
-* I helped design and build a complex new database that contained all client information.
+* I helped design and build a complex new CRM system and worked alongside a high profile financial advisor.
+
+### Foster Denovo (May 2014 - Mar 2016)
+
+#### *Client Experience Executive*
+
+* I gained recognition for creating 'an all client business' excel workbook that reduced workload, highlighted unprofitable clients and provided all the fees and income reports that management needed.
+* I was given a special 'connections connoisseur' title in recognition of the support and guidance that i gave to others I also helped build the companies business processes.
 
 ### Countrywide Corporate (Aug 2010 - Mar 2014)
 
 #### *Initial Market Report Team Leader*
 
-* I was promoted into the team leadership role and managed the team during its relocation from Weybridge to Bracknell.
+* I was promoted into the team leadership role and managed the team during its relocation from Weybridge to Bracknell, keeping the lowest turnover in the company during this time.
+
+### Child and Adolescent Mental Health Service (CAMHS) (Oct 2009 - Aug 2010)
+
+#### *Administrator*
+
+* I maintained a calm and warm demeanor while in contact with children in need of psychiatric support, due to abuse or suicidal tendencies.
+
+### Grange Management (Affinity Sutton) (Nov 2008 - Apr 2009)
+
+#### *Senior Management Surveyor*
+
+* I successfully project managed several large scale schedules of repair to blocks of flats and released a printed service charge budget to thousands of the residents that I was responsible across southern England.
+
+### HBSV Surveyors and Valuers (Dec 2006 - Nov 2008)
+
+#### *General Practice Surveyor / Management Surveyor*
+
+* I managed relationships, property, builders, contracts (building and tenancy), budgets and legal compliance at a small and broad practice of experienced property professionals.
 
 ## <a name="interests">Interests</a>
 
