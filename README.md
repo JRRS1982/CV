@@ -24,6 +24,7 @@ Please find here a selection of the projects that I have worked on while and sin
 
  Link | Description | Tech
 --- | --- | ---
+[Online Marketplace](https://github.com/JRRS1982/Online-marketplace)| Included promotions that are injected into checkout, that provided discounts to a basket of items, these being extendable by creating new promotions and adding further logic to promotion calculator. | Ruby, RSpec, Simplecov.
 [Vending Machine](https://github.com/JRRS1982/vending_machine)| TDD'd, OOP vending machine tech test which included taking coins from the user, converting to decimal, calculating cost of a selected object that had been added to the machine, calculating change and returning coins with storage for multiple objects and coin values and restocking coins etc | Ruby, RSpec, Simplecov and Pry for debugging.
 [Bowling Scorecard](https://github.com/JRRS1982/bowling_scorecard_v2)| TDD'd, OOP tech test with some complex logic calculating scores and frames reaching into other objects with multiple error handling issues, a tricky test of calculation and edge cases being managed | Ruby, RSpec, Simplecov, Pry
 [Bank Tech Test](https://github.com/JRRS1982/Bank_Tech_Test)| A TDD'd OOP tech test | Ruby, RSpec
