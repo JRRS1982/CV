@@ -1,14 +1,36 @@
 # Jeremy Smith
 
-##  [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/jeremy-smith-2b3a9b15/)
+##  [Experience](#experience) | [Projects](#projects) | [Education](#education) |  [Interests](#interests) | [Contact](#contact)
 
-- PDF of my [CV linked here](https://github.com/JRRS1982/CV/blob/master/JeremySmithResume.pdf).
+- [PDF CV linked here](https://github.com/JRRS1982/CV/blob/master/JeremySmithResume.pdf).
 
-- Link to my [Portfolio website at jeremysmith.co.uk](https://jeremysmith.co.uk/).
+- [jeremysmith.co.uk](https://jeremysmith.co.uk/).
 
-**My Work at MVF:** In my time at MVF I have pivoted across over 40 projects in different languages and moved teams, so I have had some experience in Typescript, React, Redux, Node, MySql, GraphQL, PHP, Laravel and CodeIgniter along with associated packages. Some of the projects had Jest and PHPUnit test suites, some did not. I have some exposure to logging errors to Datadog, crons in Jenkins, deployment on CircleCi, Docker containers / volumes and have used both Mac and Linux machines for work. Currently I am building S2S micro-services with Typescript and Node.
+## <a name="experience">Experience</a>
 
-**My Coding Background:** I started learning to code seriously in 2018 and took a coding bootcamp in Feb 2019 to fast track my career change. After getting a job as a full stack associate software engineer at MVF I have been learning as much as I possibly can to get things done at work. Shifting context a lot has meant that I have built a shallow but fairly broad range of experience across multiple languages, frameworks and services.
+### MVF Global (October 2019 - Present)
+
+#### *Associate Software Engineer*
+
+Since October 2020 I have been building Typescript, Node and MySQL S2S services, which are Dockerised, deployed via Circleci and have Jest test coverage.
+
+My first 12 months at MVF consisted of rotating 50/50 between building APIs for stakeholders using Postman and our proprietary service and working on a legacy PHP/Laravel monolith.
+
+I have planned, written up and completed my own JIRA stories and contributed to the weekly architecture meetings. I have worked across approx 40 micro-services and monoliths. 
+
+I have worked with varying amounts of Typescript, React, Node, MySQL, GraphQL, Javascript, PHP, Laravel, CodeIgniter, Travis, CircleCi, AWS, Jest, PHPUnit, Docker, Ruby, Jira, Trello, Postman, Snowflake, Looker, VsCode, PHPStorm. I work on a Mac at home and Linux at work, and have used various other associated packages / libraries.
+
+### Close Brothers (July 2017 - Jan 2019)
+
+#### *Wealth Management Assistant*
+
+Helping ultra high net worth individuals with the administration of their investments. It required discretion, attention to detail and patience, I was personally selected by the number one financial advisor in the London office and added to a business improvement team.
+
+### Thomas Miller (Mar 2016 - Apr 2017)
+
+#### *Wealth Management Assistant*
+
+I helped design and implement a complex new CRM system, and worked as the right hand man of a high profile financial advisor, attending client meetings and helping with the administration.
 
 ## <a name="projects">Projects</a>
 
@@ -17,6 +39,7 @@ Please find my public projects available on github [here](https://github.com/JRR
  Link | Description | Tech
 --- | --- | ---
 [Tutorial Projects](https://github.com/JRRS1982/TutorialProjects) | This is my monorepo for tutorials that i have worked through, you will find a large number of projects nested within these which were completed while working through the hundreds of hours or material in the courses | React, Typescript, Javascript, Docker, Redux
+[Tech Tests](https://github.com/JRRS1982/TutorialProjects) | This is my monorepo for tech tests that i have completed for interviews or for practice | Javascript, Typescript, Ruby
 [Online Marketplace](https://github.com/JRRS1982/Online-marketplace)| TDD'd, OOP, SOLID tech test that included items, checkout, basket, promotion, promotion calculator etc. It included a promotion object that was substitutable, that provided discounts to a basket of items. | Ruby, RSpec, Simplecov, Coveralls.
 [Vending Machine](https://github.com/JRRS1982/vending_machine)| TDD'd, OOP vending machine tech test which included taking coins from the user, converting to decimal, calculating cost of a selected item that had been added to the machine, then calculating required change and returning coins in string format with storage for multiple objects and coin values and methods for restocking coins etc | Ruby, RSpec, Simplecov, Coveralls.
 [Acebook](https://github.com/JRRS1982/acebook-business-logic)| A Rails web app. In pairs we worked in an Agile manner for two weeks to create a clone of Facebook, we have RESTful routes for users, a comment board and passwords with CRUD for posts and some excellent CSS | Ruby, Rails, Javascript, JQuery, HTML, CSS, PostgreSQL.
@@ -56,36 +79,11 @@ Please find my public projects available on github [here](https://github.com/JRR
 
 - #### *Business Administration, Upper Second Class Honors*
 
-## <a name="experience">Experience</a>
-
-### Close Brothers (July 2017 - Jan 2019)
-
-#### *Wealth Management Assistant*
-
-* Personally selected into the team of the number one billing financial advisor in the company to support the administration of finances for celebrities and ultra high net worth clients.
-* Promoted onto the business improvement forum due to my contribution to the team.
-
-### AMPP Group (Apr 2017 - Jul 2019)
-
-#### *Sales Consultant*
-
-* I exceeded all call targets to establish sales calls between my Sales Director and CEO level customers but didn't enjoy the sales environment.
-
-### Thomas Miller (Mar 2016 - Apr 2017)
-
-#### *Wealth Management Assistant*
-
-* I helped design and build a complex new CRM system and worked as the right hand man of a high profile financial advisor.
-
 ## <a name="interests">Interests</a>
 
-**Cycling** : I have always loved cycling, ideally with a riverside pub lunch stop.
-
-**Cooking** : My partner is an ex-chef and qualified dietician, so most of our spare time revolves around food.
-
-**Tech** : It's what I love to play with.
+Cycling, swimming, trips to the country or seaside, cooking for friend and coding.
 
 ## <a name="contact">Contact</a>
 
-* Email: jeremyrrsmith@gmail.com
-* Telephone: 07398 722784
+- Email: jeremyrrsmith@gmail.com
+- Telephone: 07398 722784
