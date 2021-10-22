@@ -2,35 +2,25 @@
 
 ##  [Experience](#experience) | [Projects](#projects) | [Education](#education) |  [Interests](#interests) | [Contact](#contact)
 
-- [PDF CV linked here](https://github.com/JRRS1982/CV/blob/master/JeremySmithResume.pdf).
-
-- [jeremysmith.co.uk](https://jeremysmith.co.uk/).
+Full stack software engineer, focusing on Typescript, Node, React and writing clean code.
 
 ## <a name="experience">Experience</a>
 
 ### MVF Global (October 2019 - Present)
 
+#### *Software Engineer*
+
+Since October 2020 I have been building Typescript, Node and MySQL S2S applications, with a bit of work in their React / Redux frontend. These services are are Dockerised, deployed via CircleCi, log errors to Datadog and have Jest test coverage. They send and receive data to major marketing / advertising platforms.
+
+I have worked with varying amounts of Typescript, React, Node, MySQL, GraphQL, Javascript, PHP, Laravel, CodeIgniter, Travis, CircleCi, AWS, Jest, PHPUnit, Docker, Ruby, Jira, Trello, Postman, Snowflake, Datadog, Looker, VsCode, PHPStorm. I used to work on a Mac, but now prefer / mainly work on linux, with TS and Node.
+
 #### *Associate Software Engineer*
 
-Since October 2020 I have been building Typescript, Node and MySQL S2S services, which are Dockerised, deployed via Circleci and have Jest test coverage.
+The first 12 months at MVF consisted of rotating 50/50 between building APIs for stakeholders and working on a legacy PHP monolith. I was hired with no experience of working in PHP and learnt the fundamentals during this time.
 
-My first 12 months at MVF consisted of rotating 50/50 between building APIs for stakeholders using Postman and our proprietary service and working on a legacy PHP/Laravel monolith.
+#### Prior to software
 
-I have planned, written up and completed my own JIRA stories and contributed to the weekly architecture meetings. I have worked across approx 40 micro-services and monoliths. 
-
-I have worked with varying amounts of Typescript, React, Node, MySQL, GraphQL, Javascript, PHP, Laravel, CodeIgniter, Travis, CircleCi, AWS, Jest, PHPUnit, Docker, Ruby, Jira, Trello, Postman, Snowflake, Looker, VsCode, PHPStorm. I work on a Mac at home and Linux at work, and have used various other associated packages / libraries.
-
-### Close Brothers (July 2017 - Jan 2019)
-
-#### *Wealth Management Assistant*
-
-Helping ultra high net worth individuals with the administration of their investments. It required discretion, attention to detail and patience, I was personally selected by the number one financial advisor in the London office and added to a business improvement team.
-
-### Thomas Miller (Mar 2016 - Apr 2017)
-
-#### *Wealth Management Assistant*
-
-I helped design and implement a complex new CRM system, and worked as the right hand man of a high profile financial advisor, attending client meetings and helping with the administration.
+Please see my prior experience on [Linkedin](https://www.linkedin.com/in/jeremy-smith-2b3a9b15/) which includes working in financial advice and property management.
 
 ## <a name="projects">Projects</a>
 
@@ -81,9 +71,10 @@ Please find my public projects available on github [here](https://github.com/JRR
 
 ## <a name="interests">Interests</a>
 
-Cycling, swimming, trips to the country or seaside, cooking for friend and coding.
+Cycling (slowly), swimming (quickly), running (occasionally), trips to the country or seaside for walks and fresh air, cooking for friends with wine and coding.
 
 ## <a name="contact">Contact</a>
 
 - Email: jeremyrrsmith@gmail.com
-- Telephone: 07398 722784
+- Website: jeremysmith.co.uk
+- Twitter: @Jeremystwita
