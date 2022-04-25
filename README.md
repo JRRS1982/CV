@@ -8,15 +8,15 @@ Full stack software engineer, focusing on Typescript, Node, React and writing cl
 
 ### MVF Global (October 2019 - Present)
 
-#### *Software Engineer*
+## *Software Engineer from July 2021*
 
-Since October 2020 I have been building Typescript, Node and MySQL S2S applications, with a bit of work in their React / Redux frontend. These services are are Dockerised, deployed via CircleCi, log errors to Datadog and have Jest test coverage. They send and receive data to major marketing / advertising platforms.
+I have been creating reusable React components in Storybook following Atomic design principles as well as continuing work on the S2S services, which are are Dockerised and deployed via CircleCi, log errors to Datadog and have Jest test coverage. They send and receive data to major marketing / advertising platforms.
 
-I have worked with varying amounts of Typescript, React, Node, MySQL, GraphQL, Javascript, PHP, Laravel, CodeIgniter, Travis, CircleCi, AWS, Jest, PHPUnit, Docker, Ruby, Jira, Trello, Postman, Snowflake, Datadog, Looker, VsCode, PHPStorm. I used to work on a Mac, but now prefer / mainly work on linux, with TS and Node.
+I have worked with varying amounts of Typescript, React, Node, MySQL, GraphQL, Javascript, PHP, Laravel, CodeIgniter, Travis, CircleCi, AWS, Jest, PHPUnit, Docker, Ruby, Rails, Jira, Trello, Postman, Datadog, Snowflake and Looker. I used to work on a Mac, but now mainly work on linux with vscode. I review colleagues work, take part in daily standups, have presented to new starters, at recruitment fairs and at team and company tech guild.
 
 #### *Associate Software Engineer*
 
-The first 12 months at MVF consisted of rotating 50/50 between building APIs for stakeholders and working on a legacy PHP monolith. I was hired with no experience of working in PHP and learnt the fundamentals during this time.
+The first 12 months at MVF consisted of rotating 50/50 between building APIs and interacting with internal stakeholders to debug apis and learning PHP by maintaining a legacy PHP monolith. Since Oct 2020 I have been building Typescript and Node S2S applications. 
 
 #### Prior to software
 
@@ -28,13 +28,12 @@ Please find my public projects available on github [here](https://github.com/JRR
 
  Link | Description | Tech
 --- | --- | ---
-[Tutorial Projects](https://github.com/JRRS1982/TutorialProjects) | This is my monorepo for tutorials that i have worked through, you will find a large number of projects nested within these which were completed while working through the hundreds of hours or material in the courses | React, Typescript, Javascript, Docker, Redux
-[Tech Tests](https://github.com/JRRS1982/TutorialProjects) | This is my monorepo for tech tests that i have completed for interviews or for practice | Javascript, Typescript, Ruby
+[Balanced Money Backend](https://github.com/JRRS1982/balanced-money-backend)| An experiment with type-graphql and docker, a work in progress, but first personal project in a while | type-graphql / TS / Node / Docker / typeorm etc.  
+[Tutorial Projects](https://github.com/JRRS1982/TutorialProjects) | This is my monorepo for tutorials that i have worked through, you will find a large number of projects nested within these which were completed while working through the hundreds of hours or material in the courses | React, Typescript, Javascript, Docker, Redux etc.
+[Tech Tests](https://github.com/JRRS1982/TechTests) | This is my monorepo for tech tests that i have completed for interviews or for practice | Javascript, Typescript, Ruby etc
 [Online Marketplace](https://github.com/JRRS1982/Online-marketplace)| TDD'd, OOP, SOLID tech test that included items, checkout, basket, promotion, promotion calculator etc. It included a promotion object that was substitutable, that provided discounts to a basket of items. | Ruby, RSpec, Simplecov, Coveralls.
 [Vending Machine](https://github.com/JRRS1982/vending_machine)| TDD'd, OOP vending machine tech test which included taking coins from the user, converting to decimal, calculating cost of a selected item that had been added to the machine, then calculating required change and returning coins in string format with storage for multiple objects and coin values and methods for restocking coins etc | Ruby, RSpec, Simplecov, Coveralls.
-[Acebook](https://github.com/JRRS1982/acebook-business-logic)| A Rails web app. In pairs we worked in an Agile manner for two weeks to create a clone of Facebook, we have RESTful routes for users, a comment board and passwords with CRUD for posts and some excellent CSS | Ruby, Rails, Javascript, JQuery, HTML, CSS, PostgreSQL.
 [Bowling Scorecard](https://github.com/JRRS1982/bowling_scorecard_v2)| TDD'd, OOP tech test with some complex logic calculating scores and frames reaching into other objects with multiple error handling complications, a tricky test of calculating edge cases being managed and logic | Ruby, RSpec, Simplecov.
-[Bank Tech Test](https://github.com/JRRS1982/Bank_Tech_Test)| A TDD'd OOP tech test | Ruby, RSpec
 
 <br>
 
@@ -71,7 +70,7 @@ Please find my public projects available on github [here](https://github.com/JRR
 
 ## <a name="interests">Interests</a>
 
-Cycling (slowly), swimming (quickly), running (occasionally), trips to the country or seaside for walks and fresh air, cooking for friends with wine and coding.
+Cycling (slowly), swimming (quickly), running (occasionally), trips to the country or seaside for walks and fresh air (as often as possible), cooking for friends with wine (weekly?) and coding (daily if i get time).
 
 ## <a name="contact">Contact</a>
 
