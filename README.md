@@ -29,6 +29,7 @@ Please find my public projects available on github [here](https://github.com/JRR
  Link | Description | Tech
 --- | --- | ---
 [Balanced Money Backend](https://github.com/JRRS1982/balanced-money-backend)| An experiment with type-graphql and docker, a work in progress, but first personal project in a while | type-graphql / TS / Node / Docker / typeorm etc.  
+[JeremySmith.co.uk](https://www.jeremysmith.co.uk/)| A static gatsby template website hosted on AWS | Gatsby, React
 [Tutorial Projects](https://github.com/JRRS1982/TutorialProjects) | This is my monorepo for tutorials that i have worked through, you will find a large number of projects nested within these which were completed while working through the hundreds of hours or material in the courses | React, Typescript, Javascript, Docker, Redux etc.
 [Tech Tests](https://github.com/JRRS1982/TechTests) | This is my monorepo for tech tests that i have completed for interviews or for practice | Javascript, Typescript, Ruby etc
 [Online Marketplace](https://github.com/JRRS1982/Online-marketplace)| TDD'd, OOP, SOLID tech test that included items, checkout, basket, promotion, promotion calculator etc. It included a promotion object that was substitutable, that provided discounts to a basket of items. | Ruby, RSpec, Simplecov, Coveralls.
