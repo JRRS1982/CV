@@ -1,18 +1,20 @@
 # Jeremy Smith
 
-##  [Experience](#experience) | [Projects](#projects) | [Education](#education) |  [Interests](#interests) | [Contact](#contact)
+## [Experience](#experience) | [Projects](#projects) | [Education](#education) |  [Interests](#interests) | [Contact](#contact)
 
-Full stack software engineer, focusing on Typescript, Node, React and writing clean code.
+Software engineer, with experience working in Typescript, Node, React and writing clean code.
 
-## <a name="experience">Experience</a>
+## Experience
 
 ### MVF Global (October 2019 - Present)
 
 #### *Software Engineer*
 
-Since October 2020 I have been building Typescript, Node and MySQL S2S applications, with a bit of work in their React / Redux frontend. These services are are Dockerised, deployed via CircleCi, log errors to Datadog and have Jest test coverage. They send and receive data to major marketing / advertising platforms.
+Since October 2021 I have been building React components in Storybook with TS, and building the lead generation widget which uses those components, and an associated loader application - which embeds the widget on a clients website, within an iFrame.
 
-I have worked with varying amounts of Typescript, React, Node, MySQL, GraphQL, Javascript, PHP, Laravel, CodeIgniter, Travis, CircleCi, AWS, Jest, PHPUnit, Docker, Ruby, Jira, Trello, Postman, Snowflake, Datadog, Looker, VsCode, PHPStorm. I used to work on a Mac, but now prefer / mainly work on linux, with TS and Node.
+From October 2020 until October 2021 I was building Typescript, Node and MySQL S2S applications. These services are are Dockerised, deployed via CircleCi, log errors to Datadog and have Jest test coverage. They send and receive data to global marketing / advertising platforms.
+
+I have worked with varying amounts of Typescript, React, Node, MySQL, GraphQL, Javascript, PHP, Laravel, CodeIgniter, Travis, CircleCi, AWS, Jest, PHPUnit, Docker, Ruby, Jira, Trello, Postman, Snowflake, Datadog, Looker, VsCode, PHPStorm. I used to work on a Mac, but given I work on Dockerised applications I use Linux and have a preference to continue working in JS/TS.
 
 #### *Associate Software Engineer*
 
@@ -22,7 +24,7 @@ The first 12 months at MVF consisted of rotating 50/50 between building APIs for
 
 Please see my prior experience on [Linkedin](https://www.linkedin.com/in/jeremy-smith-2b3a9b15/) which includes working in financial advice and property management.
 
-## <a name="projects">Projects</a>
+## Projects
 
 Please find my public projects available on github [here](https://github.com/JRRS1982?tab=repositories), most of these projects were completed before I had my first job as a software engineer.
 
@@ -36,9 +38,7 @@ Please find my public projects available on github [here](https://github.com/JRR
 [Bowling Scorecard](https://github.com/JRRS1982/bowling_scorecard_v2)| TDD'd, OOP tech test with some complex logic calculating scores and frames reaching into other objects with multiple error handling complications, a tricky test of calculating edge cases being managed and logic | Ruby, RSpec, Simplecov.
 [Bank Tech Test](https://github.com/JRRS1982/Bank_Tech_Test)| A TDD'd OOP tech test | Ruby, RSpec
 
-<br>
-
-## <a name="education">Education</a>
+## Education
 
 ### Makers Academy Software Development Bootcamp(Feb-May 2019)
 
@@ -63,18 +63,17 @@ Please find my public projects available on github [here](https://github.com/JRR
 
 ### University of Kingston (2007-2009)
 
-- #### *Real Estate, Post Graduate Diploma, Pass*
+* #### *Real Estate, Post Graduate Diploma, Pass*
 
 ### University of Plymouth (2002-2005)
 
-- #### *Business Administration, Upper Second Class Honors*
+* #### *Business Administration, Upper Second Class Honors*
 
-## <a name="interests">Interests</a>
+## Interests
 
 Cycling (slowly), swimming (quickly), running (occasionally), trips to the country or seaside for walks and fresh air, cooking for friends with wine and coding.
 
-## <a name="contact">Contact</a>
+## Contact
 
-- Email: jeremyrrsmith@gmail.com
-- Website: jeremysmith.co.uk
-- Twitter: @Jeremystwita
+* Email: jeremyrrsmith@gmail.com
+* Website: jeremysmith.co.uk
