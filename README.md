@@ -21,7 +21,10 @@ A software engineer, with experience of working with React, Node, Redux, GraphQl
 
 - **October 2020 - November 2021**: built and tested server to server microservice's / API's, which sent revenue and read costs from marketing platforms. TS, Node, Express, Apollo, Jest, MySQL, Snowflake, Looker, Postman.
 
-- **November 2021 - Current**: creating a services of microservices which are dockerised, deployed via circleci, log errors to datadog and have good jest, unit test coverage.
+- **November 2021 - Current**: creating a series of microservices which are dockerised, deployed via circleci, log errors to datadog and have good jest, unit test coverage.
+  - I personally investigated an issue with excessive re-rendering of our main application, found the cause was due to a global context, proposed the solution (redux with Immer slices), and managed the epic of migrating the whole application's state to Redux.
+  - I personally presented at the companies tech guild on the merits of Redux over context in this case and on a separate occasion, on React performance improvement, one way was through the use of self contained components and co-locating state.
+  - I personally created a large number of React / TS components for the Storybook library and stories for users to test them.
   - built and tested a React-Typescript component library in Storybook, which is published to npm.
   - built and tested an embeddable JS widget in an iframe, with responsive height to the parent container and transition effects between renders to show enter/exit of unloaded pages.
   - build a generator application, which had UI buttons to create a snippet, that is used for embedding the widget.
