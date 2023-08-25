@@ -1,0 +1,43 @@
+on:
+  push:
+    tags:
+      - '*'                                                 # (1) Build PDF when any tag is pushed
+
+name: Upload Release Asset
+
+jobs:
+  build:
+    name: Upload Release Asset
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Remove first 10 lines from the README (the html)                              # (2) pre-process the markdown to remove the 10 swag line / html from the MD
+        run: sed -i '1,10d' README.md
+      - name: Build PDF from Markdown                       # (3) markdown-to-pdf action
+        uses: BaileyJM02/markdown-to-pdf@v1 # https://github.com/BaileyJM02/markdown-to-pdf
+        with:
+          input_dir: .
+          output_dir: out
+      - name: Rename pdf
+        run: cp out/README.pdf ./jeremy_smith_resume.pdf
+      - name: Create Release                                # (4) Create Github Release for the tag
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref }}
+          draft: false
+          prerelease: false
+      - name: Upload Release Asset                          # (5) Uploads the generated PDF to the tagged release
+        id: upload-release-asset
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./jeremy_smith_resume.pdf
+          asset_name: jeremy_smith_resume.pdf
+          asset_content_type: application/pdf

@@ -9,6 +9,8 @@
   </a>
 <br />
 
+[![](https://img.shields.io/badge/PDF-Download-1abc9c?style=for-the-badge)](https://github.com/JRRS1982/resume/releases/latest/download/jeremy_smith_resume.pdf)
+
 # CV: Jeremy Smith
 
 A software engineer, with experience of working with React, Node, Redux, GraphQl, Typescript, Storybook, Next.js, Jest and some Docker / AWS / Datadog.
