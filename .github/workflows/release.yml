@@ -1,7 +1,7 @@
 on:
   push:
-    tags:
-      - '*'                                                 # (1) Build PDF when any tag is pushed
+    branches:
+      - 'master'                                                 # (1) Build PDF on push to master
 
 name: Upload Release Asset
 
@@ -12,8 +12,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-      - name: Remove first 10 lines from the README (the html)                              # (2) pre-process the markdown to remove the 10 swag line / html from the MD
-        run: sed -i '1,10d' README.md
+      - name: Remove first 8 lines from the README (the html)                              # (2)
+        run: sed -i '1,8d' README.md
       - name: Build PDF from Markdown                       # (3) markdown-to-pdf action
         uses: BaileyJM02/markdown-to-pdf@v1 # https://github.com/BaileyJM02/markdown-to-pdf
         with:

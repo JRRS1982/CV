@@ -1,15 +1,10 @@
 <p>
-  <br />
+  <a href="https://github.com/JRRS1982/resume/releases/latest/download/jeremy_smith_resume.pdf" target="_blank"><img alt="PDF_Download" src="https://img.shields.io/badge/PDF-Download-1abc9c?style=for-the-badge" />
+  </a>
   <a href="https://www.linkedin.com/in/jeremy-smith-2b3a9b15/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   <a href="https://leetcode.com/JRRS1982" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/leetcode-%2312100E.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://www.codewars.com/users/JRRS1982" target="_blank"><img alt="CodeWars" src="https://img.shields.io/badge/codewars-%2312100E.svg?&style=for-the-badge&logo=codewars&logoColor=white" />
-  </a>
-  <a href="https://exercism.io/profiles/JRRS1982" target="_blank"><img alt="Exercism" src="https://img.shields.io/badge/exercism-%2312100E.svg?&style=for-the-badge&logo=exercism&logoColor=white" />
-  </a>
-<br />
-
-[![](https://img.shields.io/badge/PDF-Download-1abc9c?style=for-the-badge)](https://github.com/JRRS1982/resume/releases/latest/download/jeremy_smith_resume.pdf)
+<p />
 
 # CV: Jeremy Smith
 
