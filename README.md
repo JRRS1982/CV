@@ -1,79 +1,68 @@
-# Jeremy Smith
+<p>
+  <br />
+  <a href="https://www.linkedin.com/in/jeremy-smith-2b3a9b15/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://leetcode.com/JRRS1982" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/leetcode-%2312100E.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.codewars.com/users/JRRS1982" target="_blank"><img alt="CodeWars" src="https://img.shields.io/badge/codewars-%2312100E.svg?&style=for-the-badge&logo=codewars&logoColor=white" />
+  </a>
+  <a href="https://exercism.io/profiles/JRRS1982" target="_blank"><img alt="Exercism" src="https://img.shields.io/badge/exercism-%2312100E.svg?&style=for-the-badge&logo=exercism&logoColor=white" />
+  </a>
+<br />
 
-## [Experience](#experience) | [Projects](#projects) | [Education](#education) |  [Interests](#interests) | [Contact](#contact)
+# CV: Jeremy Smith
 
-Software engineer, with experience working in Typescript, Node, React and writing clean code.
+A software engineer, with experience of working with React, Node, Redux, GraphQl, Typescript, Storybook, Next.js, Jest and some Docker / AWS / Datadog.
 
-## Experience
+## Professional Experience
 
-### MVF Global (October 2019 - Present)
+### Software Engineer at MVF Global (October 2019 - Present)
 
-## *Software Engineer from July 2021*
+- **October 2019 - October 2020**: built and tested API's on an internal API system, provided user support on an internal CRM platform, learnt basic PHP while adding features such as a subcategory page to a legacy monolith.
 
-Since October 2021 I have been building React components in Storybook with TS, and building the lead generation widget which uses those components, and an associated loader application - which embeds the widget on a clients website, within an iFrame.
+- **October 2020 - November 2021**: built and tested server to server microservice's / API's, which sent revenue and read costs from marketing platforms. TS, Node, Express, Apollo, Jest, MySQL, Snowflake, Looker, Postman.
 
-From October 2020 until October 2021 I was building Typescript, Node and MySQL S2S applications. These services are are Dockerised, deployed via CircleCi, log errors to Datadog and have Jest test coverage. They send and receive data to global marketing / advertising platforms.
+- **November 2021 - Current**: creating a services of microservices which are dockerised, deployed via circleci, log errors to datadog and have good jest, unit test coverage.
+  - built and tested a React-Typescript component library in Storybook, which is published to npm.
+  - built and tested an embeddable JS widget in an iframe, with responsive height to the parent container and transition effects between renders to show enter/exit of unloaded pages.
+  - build a generator application, which had UI buttons to create a snippet, that is used for embedding the widget.
+  - built gateway applications for the widget and the generator: node + TS.
 
-I have worked with varying amounts of Typescript, React, Node, MySQL, GraphQL, Javascript, PHP, Laravel, CodeIgniter, Travis, CircleCi, AWS, Jest, PHPUnit, Docker, Ruby, Jira, Trello, Postman, Snowflake, Datadog, Looker, VsCode, PHPStorm. I used to work on a Mac, but given I work on Dockerised applications I use Linux and have a preference to continue working in JS/TS.
+### Makers Academy Bootcamp Feb-May 2019
 
-#### *Associate Software Engineer*
+I became increasingly interested in learning to code in 2018, and spent a lot of time on freecodecamp. I then chose to attend a bootcamp to get assistance entering the job market, they taught us:
 
-The first 12 months at MVF consisted of rotating 50/50 between building APIs and interacting with internal stakeholders to debug apis and learning PHP by maintaining a legacy PHP monolith. Since Oct 2020 I have been building Typescript and Node S2S applications. 
+Git, pair programming, jira, TDD, SOLID, Kanban, Ruby, Rspec, Cucumber, MVC, Rails, CI, Travis, REST, CD, Heroku, UML, debugging strategies.
 
 #### Prior to software
 
-Please see my prior experience on [Linkedin](https://www.linkedin.com/in/jeremy-smith-2b3a9b15/) which includes working in financial advice and property management.
+I liked the idea of working in finance, and spend 4.5 years working in financial advice, supporting advisors with the technical paperwork and calculating investment returns.
 
-## Projects
+Prior to that I spent about 8 years exploring roles in property, valuing property, managing estates of houses / flats, inspecting damage and managing budgets. In circa 2007-2009 I studied Real Estate at Kingston Uni and obtained a post graduate diploma.
+
+## Projects / Evidence of Work
 
 Please find my public projects available on github [here](https://github.com/JRRS1982?tab=repositories), most of these projects were completed before I had my first job as a software engineer.
 
  Link | Description | Tech
 --- | --- | ---
-[Balanced Money Backend](https://github.com/JRRS1982/balanced-money-backend)| An experiment with type-graphql and docker, a work in progress, but first personal project in a while | type-graphql / TS / Node / Docker / typeorm etc.  
-[JeremySmith.co.uk](https://www.jeremysmith.co.uk/)| A static gatsby template website hosted on AWS | Gatsby, React
-[Tutorial Projects](https://github.com/JRRS1982/TutorialProjects) | This is my monorepo for tutorials that i have worked through, you will find a large number of projects nested within these which were completed while working through the hundreds of hours or material in the courses | React, Typescript, Javascript, Docker, Redux etc.
-[Tech Tests](https://github.com/JRRS1982/TechTests) | This is my monorepo for tech tests that i have completed for interviews or for practice | Javascript, Typescript, Ruby etc
-[Online Marketplace](https://github.com/JRRS1982/Online-marketplace)| TDD'd, OOP, SOLID tech test that included items, checkout, basket, promotion, promotion calculator etc. It included a promotion object that was substitutable, that provided discounts to a basket of items. | Ruby, RSpec, Simplecov, Coveralls.
-[Vending Machine](https://github.com/JRRS1982/vending_machine)| TDD'd, OOP vending machine tech test which included taking coins from the user, converting to decimal, calculating cost of a selected item that had been added to the machine, then calculating required change and returning coins in string format with storage for multiple objects and coin values and methods for restocking coins etc | Ruby, RSpec, Simplecov, Coveralls.
-[Bowling Scorecard](https://github.com/JRRS1982/bowling_scorecard_v2)| TDD'd, OOP tech test with some complex logic calculating scores and frames reaching into other objects with multiple error handling complications, a tricky test of calculating edge cases being managed and logic | Ruby, RSpec, Simplecov.
+[Balanced Money Backend](https://github.com/JRRS1982/balanced-money-backend)|An experiment with type-graphql and docker, a work in progress, but first personal project in a while | type-graphql / TS / Node / Docker / typeorm etc.
+[jeremysmith.co.uk](https://www.jeremysmith.co.uk/)|A static gatsby template website hosted on AWS | Gatsby, React
+[Bowling Scorecard](https://github.com/JRRS1982/TechTests/tree/master/bowling)| TDD'd, OOP tech test with some complex logic calculating scores and frames reaching into other objects with multiple error handling complications, a tricky test of calculating edge cases being managed and logic | Ruby, RSpec, Simplecov.
+[Tech Tests](https://github.com/JRRS1982/TechTests)|A place for tech tests I have completed | Javascript, Typescript, Ruby etc
+[Kata](https://github.com/JRRS1982/Kata)|A place for Kata I have worked on and associate notes|TS, JS etc.
+[Tutorial Projects](https://github.com/JRRS1982/TutorialProjects) | A place for tutorials I have worked on, in here you will find hundreds of hours of work on tutorial projects | React, Typescript, Javascript, Docker, Redux etc.
+[My Code Notes](https://my-code-notes.notion.site/863199a0f13346019ee9b5244e34a1e2?v=3bc4946ef695471e8fdcc4300b5abde9&pvs=4)|A second brain of all my reference material relating to coding. The easiest way to navigate is with `ctrl p` |Everything...
 
-## Education
+## Qualifications
 
-### Makers Academy Software Development Bootcamp(Feb-May 2019)
-
-#### 16 week Software Bootcamp
-
-* Pair programming with team collaboration / version control on Github.
-* Test driven development with RSpec / Jasmine etc
-* Behavioral driven development with i.e. Capybara / Cucumber.
-* Agile / SOLID / XP  working principles.
-* Kanban on JIRA / Trello.
-* Object orientated programming.
-* Ruby, Javascript, HTML and CSS
-* Model View Controller principles
-* Frameworks such as Rails
-* RESTful routing of web apps and connecting to APIs
-* Setup of servers via Sinatra
-* Continuous Integration with i.e. Travis
-* Continuous Deployment with i.e. Heroku
-* Database relationships using Postgres SQL and ActiveRecord
-* UML Modeling with Class Diagrams and Sequence diagrams.
-* Debugging strategies
-
-### University of Kingston (2007-2009)
-
-* #### *Real Estate, Post Graduate Diploma, Pass*
-
-### University of Plymouth (2002-2005)
-
-* #### *Business Administration, Upper Second Class Honors*
+- University of Kingston (2007-2009) Real Estate, Post Graduate Diploma
+- University of Plymouth (2002-2005) Business Administration, 2:1
 
 ## Interests
 
-Cycling (slowly), swimming (quickly), running (occasionally), trips to the country or seaside for walks and fresh air (as often as possible), cooking for friends with wine (weekly?) and coding (daily if i get time).
+Cycling, park runs, trips to the country or seaside for walks / cycling and fresh air, growing veg, cooking with/for friends with wine. BBQ's and time on the beach / in the sea!
 
 ## Contact
 
-* Email: jeremyrrsmith@gmail.com
-* Website: jeremysmith.co.uk
+- Email: [jeremyrrsmith@gmail.com](mailto:jeremyrrsmith@gmail.com)
+- Website: jeremysmith.co.uk
