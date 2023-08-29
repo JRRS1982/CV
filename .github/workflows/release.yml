@@ -23,7 +23,17 @@ jobs:
           build_html: false # Default is true, i.e. don't build a HTML file
       - name: Rename pdf
         run: cp pdfs/README.pdf ./jeremy_smith_resume.pdf
-      - name: Upload PDF as a Release Asset
+      - name: Create Release # This creates a release, which we can then upload
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref }}
+          draft: false
+          prerelease: false
+      - name: Upload PDF as a Release Asset # This uploads the PDF from the release
         id: upload-release-asset
         uses: actions/upload-release-asset@v1
         env:
