@@ -7,8 +7,8 @@ on:
     branches:
       - main
     # Paths can be used to only trigger actions when you have edited certain files, such as the README.
-    paths:
-      - 'README.md'
+    # paths:
+    #   - 'README.md'
 
 jobs:
   converttopdf:
