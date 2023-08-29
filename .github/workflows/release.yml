@@ -1,26 +1,35 @@
 # .github/workflows/convert-to-pdf.yml
 
 name: Docs to PDF
-# This workflow is triggered on pushes to the repository.
 on:
   push:
     branches:
-      - master
+      - master # This workflow is triggered on pushes to master
 
 jobs:
   converttopdf:
     name: Build PDF
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: baileyjm02/markdown-to-pdf@v1
+      - name: Checkout Code
+        uses: actions/checkout@v3
+      - name: Remove First 8 HTML lines
+        run: sed -i '1,8d' README.md
+      - name: Convert to PDF
+        uses: baileyjm02/markdown-to-pdf@v1.2.0
         with:
           input_path: README.md
           output_dir: pdfs
-          # Default is true, can set to false to only get PDF files
-          build_html: false
-          # theme: <path of the css if required>
-      - uses: actions/upload-artifact@v3
+          build_html: false # Default is true, i.e. don't build a HTML file
+      - name: Rename pdf
+        run: cp pdf/README.pdf ./jeremy_smith_resume.pdf
+      - name: Upload PDF as a Release Asset
+        id: upload-release-asset
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          name: .
-          path: pdfs
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./jeremy_smith_resume.pdf
+          asset_name: jeremy_smith_resume.pdf
+          asset_content_type: application/pdf
