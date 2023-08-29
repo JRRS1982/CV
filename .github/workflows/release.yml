@@ -1,43 +1,29 @@
+# .github/workflows/convert-to-pdf.yml
+
+name: Docs to PDF
+# This workflow is triggered on pushes to the repository.
 on:
   push:
     branches:
-      - 'master'                                                 # (1) Build PDF on push to master
-
-name: Upload Release Asset
+      - main
+    # Paths can be used to only trigger actions when you have edited certain files, such as the README.
+    paths:
+      - 'README.md'
 
 jobs:
-  build:
-    name: Upload Release Asset
+  converttopdf:
+    name: Build PDF
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-      - name: Remove first 8 lines from the README (the html)                              # (2)
-        run: sed -i '1,8d' README.md
-      - name: Build PDF from Markdown                       # (3) markdown-to-pdf action
-        uses: BaileyJM02/markdown-to-pdf@v1 # https://github.com/BaileyJM02/markdown-to-pdf
+      - uses: actions/checkout@v3
+      - uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_dir: .
           output_dir: out
-      - name: Rename pdf
-        run: cp out/README.pdf ./jeremy_smith_resume.pdf
-      - name: Create Release                                # (4) Create Github Release for the tag
-        id: create_release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          image_import: ./images
+          # Default is true, can set to false to only get PDF files
+          build_html: false
+      - uses: actions/upload-artifact@v3
         with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
-          draft: false
-          prerelease: false
-      - name: Upload Release Asset                          # (5) Uploads the generated PDF to the tagged release
-        id: upload-release-asset
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./jeremy_smith_resume.pdf
-          asset_name: jeremy_smith_resume.pdf
-          asset_content_type: application/pdf
+          name: .
+          path: out
