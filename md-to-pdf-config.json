@@ -1,0 +1,14 @@
+{
+  "highlight_style": "monokai",
+  "body_class": ["dark", "content"],
+  "pdf_options": {
+    "format": "A4",
+    "print_media_type": true,
+    "margin": {
+      "top": "2cm",
+      "bottom": "2cm",
+      "left": "2cm",
+      "right": "2cm"
+    }
+  }
+}
