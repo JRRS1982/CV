@@ -45,13 +45,14 @@ Please find my public projects available on github [here](https://github.com/JRR
 
  Link | Description | Tech
 --- | --- | ---
-[Balanced Money Backend](https://github.com/JRRS1982/balanced-money-backend)|An experiment with type-graphql and docker, a work in progress, but first personal project in a while | type-graphql / TS / Node / Docker / typeorm etc.
-[jeremysmith.co.uk](https://www.jeremysmith.co.uk/)|A static gatsby template website hosted on AWS | Gatsby, React
-[Bowling Scorecard](https://github.com/JRRS1982/TechTests/tree/master/bowling)| TDD'd, OOP tech test with some complex logic calculating scores and frames reaching into other objects with multiple error handling complications, a tricky test of calculating edge cases being managed and logic | Ruby, RSpec, Simplecov.
-[Tech Tests](https://github.com/JRRS1982/TechTests)|A place for tech tests I have completed | Javascript, Typescript, Ruby etc
 [Kata](https://github.com/JRRS1982/Kata)|A place for Kata I have worked on and associate notes|TS, JS etc.
+[Config](https://github.com/JRRS1982/Config) | A NPM package [@jrrs1982/config](https://www.npmjs.com/package/@jrrs1982/config) where I keep commonly used config files | NPM, Makefile, JSON, Javascript, ESLint, Prettier etc.
+[Tech Tests](https://github.com/JRRS1982/TechTests)|A place for tech tests I have completed | Javascript, Typescript, Ruby etc
+[jeremysmith.co.uk](https://www.jeremysmith.co.uk/)|A static gatsby template website hosted on AWS | Gatsby, React
+[Balanced Money Backend](https://github.com/JRRS1982/balanced-money-backend)|An experiment with type-graphql and docker, a work in progress, but first personal project in a while | type-graphql / TS / Node / Docker / typeorm etc.
+[Bowling Scorecard](https://github.com/JRRS1982/TechTests/tree/master/bowling)| TDD'd, OOP tech test with some complex logic calculating scores and frames reaching into other objects with multiple error handling complications, a tricky test of calculating edge cases being managed and logic | Ruby, RSpec, Simplecov.
 [Tutorial Projects](https://github.com/JRRS1982/TutorialProjects) | A place for tutorials I have worked on, in here you will find hundreds of hours of work on tutorial projects | React, Typescript, Javascript, Docker, Redux etc.
-[My Code Notes](https://my-code-notes.notion.site/863199a0f13346019ee9b5244e34a1e2?v=3bc4946ef695471e8fdcc4300b5abde9&pvs=4)|A second brain of all my reference material relating to coding. The easiest way to navigate is with `ctrl p` |Everything...
+[My Code Notes](https://my-code-notes.notion.site/863199a0f13346019ee9b5244e34a1e2?v=3bc4946ef695471e8fdcc4300b5abde9&pvs=4) | My second brain of reference material. When the page is selected the easiest way to navigate is with `ctrl p <search phrase>` | Everything...
 
 ## Qualifications
 
