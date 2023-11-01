@@ -46,6 +46,7 @@ Please find my public projects available on github [here](https://github.com/JRR
  Link | Description | Tech
 --- | --- | ---
 [Kata](https://github.com/JRRS1982/Kata)|A place for Kata I have worked on and associate notes|TS, JS etc.
+[Brag Document](https://www.notion.so/my-code-notes/Brag-Document-7382f78e1f1d490c88244000d6aa647e)|A record of achievements and some of the valuable work i have delivered| Various projects i have worked on.
 [Config](https://github.com/JRRS1982/Config) | A NPM package [@jrrs1982/config](https://www.npmjs.com/package/@jrrs1982/config) where I keep commonly used config files | NPM, Makefile, JSON, Javascript, ESLint, Prettier etc.
 [Tech Tests](https://github.com/JRRS1982/TechTests)|A place for tech tests I have completed | Javascript, Typescript, Ruby etc
 [jeremysmith.co.uk](https://www.jeremysmith.co.uk/)|A static gatsby template website hosted on AWS | Gatsby, React
