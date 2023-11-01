@@ -1,5 +1,5 @@
 <p>
-  <a target="_blank" href="https://github.com/JRRS1982/CV/blob/master/README.pdf" download><img alt="PDF_Download" src="https://img.shields.io/badge/PDF-Download-1abc9c?style=for-the-badge" />
+  <a target="_blank" href="https://github.com/JRRS1982/CV/public/jeremy_smith_cv.pdf" download><img alt="PDF_Download" src="https://img.shields.io/badge/PDF-Download-1abc9c?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/jeremy-smith-2b3a9b15/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   <a href="https://leetcode.com/JRRS1982" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/leetcode-%2312100E.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />

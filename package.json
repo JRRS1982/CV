@@ -3,6 +3,6 @@
     "md-to-pdf": "^5.2.4"
   },
   "scripts": {
-    "convertToPdf": "md-to-pdf --config-file='./md-to-pdf-config.json' README.md"
+    "convertToPdf": "cat README.md | md-to-pdf --config-file='./md-to-pdf-config.json' > public/jeremy_smith_cv.pdf"
   }
 }
