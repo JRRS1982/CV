@@ -57,6 +57,7 @@ Please find my public projects available on github [here](https://github.com/JRR
 
 ## Qualifications
 
+- AWS Certified Cloud Practitioner Foundational (Dec 2023)
 - University of Kingston (2007-2009) Real Estate, Post Graduate Diploma
 - University of Plymouth (2002-2005) Business Administration, 2:1
 
