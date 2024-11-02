@@ -1,74 +1,76 @@
 <p>
-  <a target="_blank" href="https://github.com/JRRS1982/CV/blob/master/public/jeremy_smith_cv.pdf" download><img alt="PDF_Download" src="https://img.shields.io/badge/PDF-Download-1abc9c?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/jeremy-smith-2b3a9b15/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  <a href="https://leetcode.com/JRRS1982" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/leetcode-%2312100E.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-<p />
+  <a target="_blank" href="https://github.com/JRRS1982/CV/blob/master/public/jeremy_smith_cv.pdf" download><img alt="PDF_Download" src="https://img.shields.io/badge/PDF-Download-1abc9c?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/jeremy-smith-2b3a9b15/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/JRRS1982" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/leetcode-%2312100E.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.credly.com/users/jeremy-smith.3b4d74c3" target="_blank"><img alt="Credly" src="https://img.shields.io/badge/credly-%23FF6B00.svg?&style=for-the-badge&logo=credly&logoColor=white" />
+</a>
+</p>
 
-# CV: Jeremy Smith
+# Jeremy Smith
 
-A software engineer with experience in React, Node, Redux, GraphQL, TypeScript, Storybook, Next.js, Jest, and some Docker / AWS / Datadog.
+I’m a software engineer with a genuine passion for building applications. I’ve worked with technologies like React, Node.js, Redux, and TypeScript to create user-friendly experiences and solve real problems.
 
 ## Professional Experience
 
-### Software Engineer at MVF Global (October 2019 - Present)
+### MVF Global (October 2019 - Present)
 
-- **November 2021 - Current**:
-  - Developed a series of microservices that are dockerized, deployed via CircleCI, log errors to Datadog, and have comprehensive Jest unit test coverage.
-  - Built and tested a React-Typescript component library in Storybook, which is published to npm.
-  - Investigated an issue with excessive re-rendering and epic conducted the migration of global state to Redux with Immer slices.
-  - Delivered parametric polymorphic pattern to a legacy PHP/Laravel application
-  - Delivered an embedded iframe, mid transition, enabling an external team to experiment with UI
-  - Presented at company tech guilds on Redux vs. Context and also on React performance improvements, such as using self-contained components and co-locating state.
-  - Developed an embeddable JS widget in an iframe with responsive height to the parent container and transition effects to the input area between renders.
-  - Created a generator application with UI buttons to generate a snippet for embedding the widget.
-  - Built gateway applications for the widget and the generator using Node and TypeScript.
-  - Mentored and supported colleagues.
+#### Software Engineer
 
-- **October 2020 - November 2021**:
-  - Built and tested server-to-server microservices / APIs for sending revenue and reading costs from marketing platforms such as Facebook, Google and Taboola. Worked with TypeScript, Node, Express, Apollo, Jest, MySQL, Snowflake, Looker, and Postman.
+**July 2024 - Present**
 
-- **October 2019 - October 2020**:
-  - Developed and tested APIs on an internal API system, provided user support on an internal CRM platform, and learned PHP / Laravel while working on a legacy monolith.
+- I led the creation of a feature in our lead generation app that allows customers to book appointments at the point that they submit their information. This involved crafting an iframe that preloaded data and was conditionally rendered in the app dynamically (mid transition in a carousel), which presented a way for a CRO (conversion rate optimization) team to experiment independently within a closed and secure production application.
+- I take pride in mentoring junior engineers, helping them grow, and supporting mid-level and senior colleagues. I also work closely with product managers and designers to align on project goals, ensuring everyone is on the same page.
+- Coaching junior staff is a regular part of my work, and I find it rewarding to see their progress.
 
-### Makers Academy Bootcamp (Feb-May 2019)
+**November 2021 - Present**
 
-Developed coding skills and learned various technologies, including:
+- I’ve built a set of microservices that are dockerised and deployed via CircleCI. I ensure we log errors with Datadog and maintain thorough unit tests with Jest. I have some experience in working with Selenium, in the E2E suite.
+- Developed a React-Typescript component library using Storybook, which we’ve published to npm for easy use.
+- Addressed performance issues related to excessive re-rendering and I successfully transitioned our global state management to Redux, which has improved our application’s responsiveness.
+- I also contributed to enhancing a legacy PHP/Laravel application and presented findings at tech guilds on topics that matter to our team.
 
-- Git, pair programming, Jira, TDD, SOLID, Kanban, Ruby, RSpec, Cucumber, MVC, Rails, CI, Travis, REST, CD, Heroku, UML, and debugging strategies.
+**October 2020 - November 2021**
 
-### Prior to Software Engineering
+- Worked on server-to-server (marketing automation) microservices and APIs that help us manage costs and revenue across platforms like Facebook and Google. This experience deepened my understanding of how different systems interact.
 
-Worked in finance and property management, including:
+**October 2019 - October 2020**
 
-- **Finance**: Supported advisors with technical paperwork and calculated investment returns for 4.5 years.
-- **Property Management**: Valued properties, managed estates, inspected damage, and managed budgets. Studied Real Estate at Kingston University and obtained a postgraduate diploma.
+- Developed APIs for our internal systems and provided user support on our CRM. I learned some PHP/Laravel during this time, which helped me appreciate the nuances of working with legacy systems.
 
-## Projects / Evidence of Work
+### Makers Academy Bootcamp (Feb - May 2019)
 
-Please find my public projects on [GitHub](https://github.com/JRRS1982?tab=repositories). Below are some key projects:
+I attended a bootcamp that helped me build a solid foundation in coding and collaborative practices, including Git, pair programming, and test-driven development. This was a transformative experience for me.
+
+### Prior Experience
+
+Before diving into software engineering, I spent time in finance and property management, where I supported financial advisors and managed property. This background taught me the importance of detail and communication.
+
+## Projects
+
+You can check out my projects on [GitHub](https://github.com/JRRS1982?tab=repositories)
 
 | Link | Description | Tech |
 | --- | --- | --- |
-| [Brag Document](https://www.notion.so/my-code-notes/Brag-Document-7382f78e1f1d490c88244000d6aa647e) | Record of achievements and valuable work delivered | Various projects |
-| [Kata](https://github.com/JRRS1982/Kata) | A collection of Kata exercises and my notes | TypeScript, JavaScript |
-| [Config](https://github.com/JRRS1982/Config) | A WIP NPM package for commonly used config files | NPM, Makefile, JSON, JavaScript, ESLint, Prettier |
-| [Tech Tests](https://github.com/JRRS1982/TechTests) | Tech tests completed | JavaScript, TypeScript, Ruby |
-| [jeremysmith.co.uk](https://www.jeremysmith.co.uk/) | Static Gatsby website hosted on AWS | Gatsby, React |
-| [Balanced Money Backend](https://github.com/JRRS1982/balanced-money-backend) | Experiment with type-graphql and Docker | TypeScript, Node, Docker, TypeORM |
-| [Tutorial Projects](https://github.com/JRRS1982/TutorialProjects) | Collection of tutorial projects | React, TypeScript, JavaScript, Docker, Redux |
-| [My Code Notes](https://my-code-notes.notion.site/863199a0f13346019ee9b5244e34a1e2?v=3bc4946ef695471e8fdcc4300b5abde9&pvs=4) | Extensive reference material and notes | Various technologies |
+| [Brag Document](https://www.notion.so/my-code-notes/Brag-Document-7382f78e1f1d490c88244000d6aa647e) | A personal record of my achievements | Various |
+| [Code Notes](https://my-code-notes.notion.site/863199a0f13346019ee9b5244e34a1e2?v=3bc4946ef695471e8fdcc4300b5abde9&pvs=4) | My personal reference material and notes | Various |
+| [Kata](https://github.com/JRRS1982/Kata) | A collection of coding exercises and notes | TypeScript, JavaScript |
+| [Tech Tests](https://github.com/JRRS1982/TechTests) | Completed technical tests | JavaScript, TypeScript, Ruby |
+| [jeremysmith.co.uk](https://www.jeremysmith.co.uk/) | My personal website hosted on AWS | Gatsby, React |
+| [Config](https://github.com/JRRS1982/Config) | An NPM package for commonly used configuration files | NPM, JSON, JavaScript |
+| [Balanced Money Backend](https://github.com/JRRS1982/balanced-money-backend) | A project experimenting with type-graphql and Docker | TypeScript, Node, Docker |
 
 ## Qualifications
 
-- AWS Certified Cloud Practitioner Foundational (Dec 2023)
-- University of Kingston (2007-2009): Real Estate, Post Graduate Diploma
-- University of Plymouth (2002-2005): Business Administration, 2:1
+- **AWS Certified Cloud Practitioner** (Foundational, Dec 2023)
+  [View Certification](https://www.credly.com/users/jeremy-smith.3b4d74c3)
+- **Postgraduate Diploma in Real Estate**
+  Kingston University (2007 - 2009)
+- **Bachelor's in Business Administration** (2:1)
+  University of Plymouth (2002 - 2005)
 
 ## Interests
 
-Cycling, park runs, country/seaside trips for walks/cycling and fresh air, growing vegetables, cooking with/for friends with wine, BBQs, and time on the beach/in the sea!
+In my free time, I love cooking for friends, lifting weights, spending time outdoors on walks and bike rides, gardening / growing my own vegetables, and working on home improvement projects. I also enjoy BBQs and a good cup of coffee while coding.
 
 ## Contact
 
