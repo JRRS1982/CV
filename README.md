@@ -21,7 +21,7 @@ I’ve grown from junior to senior engineer at MVF, leading projects, mentoring 
 
 **Senior Software Engineer (Jul 2024 – Present)**  
 - Led development of a appointment-booking feature on a page which was delivered via iframe with dynamic page injection and had the ability to generically get and book appointments at a third party provider.
-- Used **Next.js Incremental Static Regeneration (ISR)** and additional build time API calls to handle tens of thousands of possible form/theme page combinations efficiently and cutting build time from 1hr4 to 26mins. 
+- Used Next.js Incremental Static Regeneration (ISR) and additional build time API calls to handle tens of thousands of possible form/theme page combinations efficiently and cutting build time from 1hr4 to 26mins. 
 - Worked closely with product managers and designers to plan and deliver technical business goals.
 - Mentored junior engineers, supporting growth and encouraging a culture of learning in the team and wider company.
 
@@ -40,12 +40,12 @@ I’ve grown from junior to senior engineer at MVF, leading projects, mentoring 
 
 ## Key Projects
 
-- **Microservices**: Built and deployed a suite of Node.js services with Docker, CircleCI pipelines, Datadog monitoring, and Jest unit tests.  
+- **Microservices**: Built and deployed a suite of Node.js services with Docker, CircleCI pipelines, Datadog monitoring, and Jest unit tests.
 - **React Component Library**: Built a TypeScript/React library, documented with Storybook and distributed via npm, enabling consistent UI across multiple applications, with dev tagging.
 - **Next.js ISR Integration**: Applied **Incremental Static Regeneration** to efficiently generate thousands of dynamic pages (forms/themes) while keeping build times manageable.
 - **Balanced Money Backend** ([GitHub](https://github.com/JRRS1982/balanced-money-backend)): Experimented with **GraphQL (type-graphql), Node.js, and Docker** to design a scalable API backend.
-- **Balanced** ([Github](https://github.com/JRRS1982/balanced)): I have started building a full stack Next.js project using react server components, which i am deploying to a raspberry pi (to save hosting costs).
-- **Personal Site** ([jeremysmith.co.uk](https://www.jeremysmith.co.uk/)): Hosted on AWS, an early project, showing skills in **cloud deployment, React, and Gatsby**.
+- **Balanced** ([Github](https://github.com/JRRS1982/balanced)): I have started building a **full stack Next.js** project using **react server components**, which i am deploying to a **raspberry pi** (to save hosting costs).
+- **Personal Site** ([jeremysmith.co.uk](https://www.jeremysmith.co.uk/)): Hosted on **AWS**, an early project, showing skills in **cloud deployment, React, and Gatsby**.
 
 ---
 
