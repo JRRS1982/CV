@@ -20,10 +20,10 @@ I’ve grown from junior to senior engineer at MVF, leading projects, mentoring 
 *London, Oct 2019 – Present*  
 
 **Senior Software Engineer (Jul 2024 – Present)**  
-- Led development of a appointment-booking feature on a page which was delivered via iframe with dynamic page injection and had the ability to generically get and book appointments at a third party provider.
-- Used Next.js Incremental Static Regeneration (ISR) and additional build time API calls to handle tens of thousands of possible form/theme page combinations efficiently and cutting build time from 1hr4 to 26mins. 
-- Worked closely with product managers and designers to plan and deliver technical business goals.
-- Mentored junior engineers, supporting growth and encouraging a culture of learning in the team and wider company.
+- Led development of an **appointment-booking feature** dynamically embedded via iframe with dynamic data injection, enabling generic third-party booking.
+- Implemented **Next.js Incremental Static Regeneration (ISR)** and optimised build-time API calls, reducing build times from **1h 04m to 26m** while handling tens of thousands of page variations.  
+- Partnered with product managers and designers to plan and deliver business goals.  
+- Mentored junior engineers, supporting growth and fostering a culture of learning across the team.
 
 **Mid-Level Software Engineer (Nov 2021 – Jul 2024)**  
 - Built and maintained **dockerised microservices** deployed via **CircleCI**, with robust error logging (**Datadog**) and unit test coverage (**Jest**).  
@@ -44,7 +44,7 @@ I’ve grown from junior to senior engineer at MVF, leading projects, mentoring 
 - **React Component Library**: Built a TypeScript/React library, documented with Storybook and distributed via npm, enabling consistent UI across multiple applications, with dev tagging.
 - **Next.js ISR Integration**: Applied **Incremental Static Regeneration** to efficiently generate thousands of dynamic pages (forms/themes) while keeping build times manageable.
 - **Balanced Money Backend** ([GitHub](https://github.com/JRRS1982/balanced-money-backend)): Experimented with **GraphQL (type-graphql), Node.js, and Docker** to design a scalable API backend.
-- **Balanced** ([Github](https://github.com/JRRS1982/balanced)): I have started building a **full stack Next.js** project using **react server components**, which i am deploying to a **raspberry pi** (to save hosting costs).
+- **Balanced** ([Github](https://github.com/JRRS1982/balanced)): Started building a **full stack Next.js** project using **React Server Components**, deploying to a **Raspberry Pi** (to reduce hosting costs).
 - **Personal Site** ([jeremysmith.co.uk](https://www.jeremysmith.co.uk/)): Hosted on **AWS**, an early project, showing skills in **cloud deployment, React, and Gatsby**.
 
 ---
@@ -72,4 +72,4 @@ I’ve grown from junior to senior engineer at MVF, leading projects, mentoring 
 
 Cooking for friends, lifting weights, cycling and hiking outdoors, gardening (including growing my own vegetables), home improvement projects, and coffee-fuelled coding.
 
-I enjoy spending time outdoors and value people with integrity and a sustainable way of living, which also inspires my motivation to build technology with lasting positive impact.
+I enjoy spending time outdoors and value sustainable ways of living, which inspires my motivation to build technology with lasting positive impact.
