@@ -1,6 +1,9 @@
 {
   "highlight_style": "monokai",
   "body_class": ["dark", "content"],
+  "launch_options": {
+    "args": ["--no-sandbox"]
+  },
   "pdf_options": {
     "format": "A4",
     "print_media_type": true,

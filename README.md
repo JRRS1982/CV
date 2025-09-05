@@ -1,8 +1,8 @@
 # Jeremy Smith
 
 💻 Senior Full-Stack Software Engineer | React • TypeScript • Node.js • Next.js • AWS • CI/CD • Redis • Jest • Docker • MySQL
-📍 London (Hybrid)
-📧 [jeremyrrsmith@gmail.com](mailto:jeremyrrsmith@gmail.com) | 🌐 [jeremysmith.co.uk](https://www.jeremysmith.co.uk/) | 🔗 [LinkedIn](https://www.linkedin.com/in/jeremy-smith-2b3a9b15/) | 🐙 [GitHub](https://github.com/JRRS1982)
+
+📍 Bristol (Remote / Hybrid) 📧 [jeremyrrsmith@gmail.com](mailto:jeremyrrsmith@gmail.com) | 🌐 [jeremysmith.co.uk](https://www.jeremysmith.co.uk/) | 🔗 [LinkedIn](https://www.linkedin.com/in/jeremy-smith-2b3a9b15/) | 🐙 [GitHub](https://github.com/JRRS1982)
 
 ---
 
