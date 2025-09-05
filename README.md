@@ -10,7 +10,7 @@
 
 Full-stack engineer with 5+ years’ experience building scalable web applications and microservices. Skilled in **React, Next.js (including Incremental Static Regeneration), Node.js, Typescript, Jest, Docker, Redis, AWS, MySQL, and CI/CD pipelines**.
 
-I’ve grown from associate to senior engineer at MVF, leading projects, mentoring teammates, and delivering reliable software that balances pragmatism with high standards. I thrive in collaborative teams and am motivated to use technology as a force for good — creating solutions that not only scale, but also make a positive difference.
+I’ve grown from associate to senior engineer at MVF, leading projects, mentoring teammates, and delivering reliable software that balances pragmatism with high standards. I thrive in collaborative teams and am motivated to use technology (and the next generation of it i.e. AI) as a force for good — creating solutions that not only scale, but also make a positive difference.
 
 ---
 
