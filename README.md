@@ -1,78 +1,75 @@
-<p>
-  <a target="_blank" href="https://github.com/JRRS1982/CV/blob/master/public/jeremy_smith_cv.pdf" download><img alt="PDF_Download" src="https://img.shields.io/badge/PDF-Download-1abc9c?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/jeremy-smith-2b3a9b15/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/JRRS1982" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/leetcode-%2312100E.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.credly.com/users/jeremy-smith.3b4d74c3" target="_blank"><img alt="Credly" src="https://img.shields.io/badge/credly-%23FF6B00.svg?&style=for-the-badge&logo=credly&logoColor=white" />
-</a>
-</p>
+# Jeremy Smith  
 
-# Jeremy Smith
+💻 Senior Full-Stack Software Engineer | React • TypeScript • Node.js • Next.js • AWS • CI/CD  
+📍 London (Hybrid)  
+📧 [jeremyrrsmith@gmail.com](mailto:jeremyrrsmith@gmail.com) | 🌐 [jeremysmith.co.uk](https://www.jeremysmith.co.uk/) | 🔗 [LinkedIn](https://www.linkedin.com/in/jeremy-smith-2b3a9b15/) | 🐙 [GitHub](https://github.com/JRRS1982)  
 
-I’m a software engineer with a genuine passion for building applications. I’ve worked with technologies like React, Node.js, Redux, and TypeScript to create user-friendly experiences and solve real problems.
+---
 
-## Professional Experience
+## Professional Summary  
 
-### MVF Global (October 2019 - Present)
+Full-stack engineer with 5+ years’ experience building scalable web applications and microservices. Skilled in **React, Next.js (including Incremental Static Regeneration), Node.js, Typescript, Jest, Docker, AWS, MySQL, and CI/CD pipelines**.  
 
-#### Software Engineer
+I’ve grown from junior to senior engineer at MVF, leading projects, mentoring teammates, and delivering reliable software that balances pragmatism with high standards. I thrive in collaborative teams and am motivated to use technology as a force for good — creating solutions that not only scale, but also make a positive difference.  
 
-**July 2024 - Present**
+---
 
-- I led the creation of a feature in our lead generation app that allows customers to book appointments at the point that they submit their information. This involved crafting an iframe that preloaded data and was conditionally rendered in the app dynamically (mid transition in a carousel), which presented a way for a CRO (conversion rate optimization) team to experiment independently within a closed and secure production application.
-- I take pride in mentoring junior engineers, helping them grow, and supporting mid-level and senior colleagues. I also work closely with product managers and designers to align on project goals, ensuring everyone is on the same page.
-- Coaching junior staff is a regular part of my work, and I find it rewarding to see their progress.
+## Professional Software Experience  
 
-**November 2021 - Present**
+### MVF Global — **Software Engineer**  
+*London, Oct 2019 – Present*  
 
-- I’ve built a set of microservices that are dockerised and deployed via CircleCI. I ensure we log errors with Datadog and maintain thorough unit tests with Jest. I have some experience in working with Selenium, in the E2E suite.
-- Developed a React-Typescript component library using Storybook, which we’ve published to npm for easy use.
-- Addressed performance issues related to excessive re-rendering and I successfully transitioned our global state management to Redux, which has improved our application’s responsiveness.
-- I also contributed to enhancing a legacy PHP/Laravel application and presented findings at tech guilds on topics that matter to our team.
+**Senior Software Engineer (Jul 2024 – Present)**  
+- Led development of a appointment-booking feature on a page which was delivered via iframe with dynamic page injection and had the ability to generically get and book appointments at a third party provider.
+- Used **Next.js Incremental Static Regeneration (ISR)** and additional build time API calls to handle tens of thousands of possible form/theme page combinations efficiently and cutting build time from 1hr4 to 26mins. 
+- Worked closely with product managers and designers to plan and deliver technical business goals.
+- Mentored junior engineers, supporting growth and encouraging a culture of learning in the team and wider company.
 
-**October 2020 - November 2021**
+**Mid-Level Software Engineer (Nov 2021 – Jul 2024)**  
+- Built and maintained **dockerised microservices** deployed via **CircleCI**, with robust error logging (**Datadog**) and unit test coverage (**Jest**).  
+- Developed and published an internal **React + TypeScript + Next.js component library** with Storybook for consistency across apps.  
+- Improved app performance by migrating global state management to **Redux** from **React Context**, reducing re-rendering issues.
+- Contributed to legacy **PHP/Laravel** applications and cross-team engineering guilds on best practices.
 
-- Worked on server-to-server (marketing automation) microservices and APIs that help us manage costs and revenue across platforms like Facebook and Google. This experience deepened my understanding of how different systems interact.
+**Junior Software Engineer (Oct 2019 – Nov 2021)**  
+- Delivered **server-to-server APIs and marketing automation** to optimise campaign spend across platforms like Facebook and Google.  
+- Developed internal APIs and supported CRM development, while learning and contributing to **PHP/Laravel** systems.
+- Provided hands-on technical support to internal users.
 
-**October 2019 - October 2020**
+---
 
-- Developed APIs for our internal systems and provided user support on our CRM. I learned some PHP/Laravel during this time, which helped me appreciate the nuances of working with legacy systems.
+## Key Projects
 
-### Makers Academy Bootcamp (Feb - May 2019)
+- **Microservices**: Built and deployed a suite of Node.js services with Docker, CircleCI pipelines, Datadog monitoring, and Jest unit tests.  
+- **React Component Library**: Built a TypeScript/React library, documented with Storybook and distributed via npm, enabling consistent UI across multiple applications, with dev tagging.
+- **Next.js ISR Integration**: Applied **Incremental Static Regeneration** to efficiently generate thousands of dynamic pages (forms/themes) while keeping build times manageable.
+- **Balanced Money Backend** ([GitHub](https://github.com/JRRS1982/balanced-money-backend)): Experimented with **GraphQL (type-graphql), Node.js, and Docker** to design a scalable API backend.
+- **Balanced** ([Github](https://github.com/JRRS1982/balanced)): I have started building a full stack Next.js project using react server components, which i am deploying to a raspberry pi (to save hosting costs).
+- **Personal Site** ([jeremysmith.co.uk](https://www.jeremysmith.co.uk/)): Hosted on AWS, an early project, showing skills in **cloud deployment, React, and Gatsby**.
 
-I attended a bootcamp that helped me build a solid foundation in coding and collaborative practices, including Git, pair programming, and test-driven development. This was a transformative experience for me.
+---
 
-### Prior Experience
+## Technical Skills  
 
-Before diving into software engineering, I spent time in finance and property management, where I supported financial advisors and managed property. This background taught me the importance of detail and communication.
+- **Languages & Frameworks**: TypeScript, JavaScript, Node.js, React, Next.js (including ISR), PHP/Laravel (legacy) 
+- **Databases**: MySQL, PostgreSQL
+- **Infrastructure & DevOps**: AWS (EC2, S3, Lambda, API Gateway), Docker, Serverless, CircleCI, Terraform (exposure) 
+- **Testing**: Jest, Cypress, Selenium (E2E), TDD/BDD practices  
+- **Monitoring & Analytics**: Datadog, logging/alerting pipelines  
+- **Other**: Redux, GraphQL, REST APIs, Storybook, Looker (exposure), Snowflake (exposure)
 
-## Projects
+---
 
-You can check out my projects on [GitHub](https://github.com/JRRS1982?tab=repositories)
+## Qualifications  
 
-| Link | Description | Tech |
-| --- | --- | --- |
-| [Brag Document](https://www.notion.so/my-code-notes/Brag-Document-7382f78e1f1d490c88244000d6aa647e) | A personal record of my achievements | Various |
-| [Code Notes](https://my-code-notes.notion.site/863199a0f13346019ee9b5244e34a1e2?v=3bc4946ef695471e8fdcc4300b5abde9&pvs=4) | My personal reference material and notes | Various |
-| [Kata](https://github.com/JRRS1982/Kata) | A collection of coding exercises and notes | TypeScript, JavaScript |
-| [Tech Tests](https://github.com/JRRS1982/TechTests) | Completed technical tests | JavaScript, TypeScript, Ruby |
-| [jeremysmith.co.uk](https://www.jeremysmith.co.uk/) | My personal website hosted on AWS | Gatsby, React |
-| [Config](https://github.com/JRRS1982/Config) | An NPM package for commonly used configuration files | NPM, JSON, JavaScript |
-| [Balanced Money Backend](https://github.com/JRRS1982/balanced-money-backend) | A project experimenting with type-graphql and Docker | TypeScript, Node, Docker |
+- **AWS Certified Cloud Practitioner** – Amazon Web Services, 2023  
+- **Postgraduate Diploma in Real Estate** – Kingston University, 2009  
+- **BSc Business Administration (2:1)** – University of Plymouth, 2005  
 
-## Qualifications
+---
 
-- **AWS Certified Cloud Practitioner** (Foundational, Dec 2023)
-  [View Certification](https://www.credly.com/users/jeremy-smith.3b4d74c3)
-- **Postgraduate Diploma in Real Estate**
-  Kingston University (2007 - 2009)
-- **Bachelor's in Business Administration** (2:1)
-  University of Plymouth (2002 - 2005)
+## Interests  
 
-## Interests
+Cooking for friends, lifting weights, cycling and hiking outdoors, gardening (including growing my own vegetables), home improvement projects, and coffee-fuelled coding.
 
-In my free time, I love cooking for friends, lifting weights, spending time outdoors on walks and bike rides, gardening / growing my own vegetables, and working on home improvement projects. I also enjoy BBQs and a good cup of coffee while coding.
-
-## Contact
-
-- Email: [jeremyrrsmith@gmail.com](mailto:jeremyrrsmith@gmail.com)
-- Website: [jeremysmith.co.uk](https://www.jeremysmith.co.uk/)
+I enjoy spending time outdoors and value people with integrity and a sustainable way of living, which also inspires my motivation to build technology with lasting positive impact.
